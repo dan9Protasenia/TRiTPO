@@ -87,7 +87,7 @@
 Поиск рейсов:  
 ![](mockup/search.png)  
 Дополнеительная информация о рейсе:  
-![](mockup/add Information.png)  
+![](mockup/add_info.png)  
 
 
 
