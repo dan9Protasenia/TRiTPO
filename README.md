@@ -30,8 +30,9 @@ Mockup	/	Fx	Builder
 
 – IEEE, 
 
-- ГОСТ 34.602	– https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=9&year=2022&search=%D0%B3%D0%BE%D1%81%D1%82%2034.602&RegNum=1&DocOnPageCount=15&id=231349
-шаблоны	документов	прилагаются )
+– ГОСТ 34.602	 https://protect.gost.ru/v.aspx?control=8&baseC=6&page=0&month=9&year=2022&search=%D0%B3%D0%BE%D1%81%D1%82%2034.602&RegNum=1&DocOnPageCount=15&id=231349
+
+шаблоны	документов	прилагаются 
 
 2. Внимательно	прочитать	задание.
 
